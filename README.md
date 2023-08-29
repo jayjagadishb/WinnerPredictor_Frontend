@@ -25,12 +25,12 @@ The Winner Predictor project is a fun and interactive web application built usin
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/winner-predictor.git
+   git clone https://github.com/jayjagadishb/WinnerPredictor_Frontend.git
    ```
 
 2. **Navigate to the Directory:** Move to the project directory using:
    ```
-   cd winner-predictor
+   cd winner predictor
    ```
 
 3. **Run the Project:** Simply open the `index.html` file in your preferred web browser. The project interface will load, and you can start predicting winners right away.
